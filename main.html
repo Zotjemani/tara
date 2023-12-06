@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="asset/png/icon.png" type="image/png">
+    <title>tara</title>
+</head>
+<body>
+    <div id="loading-screen">
+        <div id="loading-content">
+            <div class="custom-loader"></div>
+            Loading...
+        </div>
+    </div>
+    
+    <!-- Div for daytime -->
+    <div id="chat-container" style="display: none;"> 
+        <div id="tara"> <div id="chat-display"></div></div>
+       
+        
+        <div class="form-container">
+            <textarea id="pesan" placeholder="Tuliskan pesan Anda..."></textarea>
+            <button onclick="kirimPesan()"></button>
+        </div>
+       
+    </div>
+
+    <div id="tidur-container" style="display: none;">
+        <h1 >lagi tidur</h1>
+        <div class="circle"></div>
+    </div>
+
+    <script src="main-layout.js"></script>
+    <script src="main-responses.js"></script>
+</body>
+</html>
