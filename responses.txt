@@ -1,7 +1,7 @@
 {
     "halo": "halo",
     "helo": "halo",
-    "siapa kamu": "Saya Tara, kecerdasan buatan yang dikembangkan oleh Bitwon",
-    "siapa anda ": "Saya Tara, kecerdasan buatan yang dikembangkan oleh Bitwon",
+    "siapa kamu": "Saya Tara, kecerdasan buatan yang dikembangkan oleh zania",
+    "siapa anda ": "Saya Tara, kecerdasan buatan yang dikembangkan oleh zania",
     "help": "coba ketik: \n halo \n berapa 2+2 \n google kominfo \n go google youtube"
 }
